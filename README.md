@@ -13,7 +13,7 @@ Clean and responsive design
 
 ## 📂 Project Structure
 
-📦 Portfolio
+📦 Portfolio   
  ┣ 📜 index.html  
  ┗ 📜 README.md   
 
