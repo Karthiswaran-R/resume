@@ -14,8 +14,8 @@ Clean and responsive design
 ## 📂 Project Structure
 
 📦 Portfolio
- ┣ 📜 index.html
- ┗ 📜 README.md
+ ┣ 📜 index.html  
+ ┗ 📜 README.md   
 
 
 ## 🛠️ Technologies Used
