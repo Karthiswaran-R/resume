@@ -3,7 +3,7 @@
 This is the source code for my personal portfolio website showcasing my skills, projects, and professional background. The website is built using HTML, Bootstrap, and Font Awesome for styling and icons.
 
 ## 🌐 Live Preview
-You can view the live site here: [Karthiswaran R - Portfolio](https://vlsidesginhub.netlify.app/linux)
+You can view the live site here: [karthiswaran-portfolio](https://karthiswaran-portfolio.netlify.app/))
 
 ## 🚀 Features
 Clean and responsive design
